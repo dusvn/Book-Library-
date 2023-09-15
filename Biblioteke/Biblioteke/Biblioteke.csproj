@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="avatar_korisnici\avatar1.png" />
+    <None Remove="avatar_korisnici\avatar2.png" />
+    <None Remove="avatar_korisnici\avatar3.png" />
+    <None Remove="avatar_korisnici\avatar4.png" />
+    <None Remove="avatar_korisnici\avatar5.png" />
+    <None Remove="avatar_korisnici\avatar6.jpg" />
+    <None Remove="slike_logo\gbns.png" />
+    <None Remove="slike_logo\knjiga_za_projekat.png" />
+    <None Remove="slike_logo\knjige.jpg" />
+    <None Remove="slike_logo\nbs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="avatar_korisnici\avatar1.png" />
+    <Resource Include="avatar_korisnici\avatar2.png" />
+    <Resource Include="avatar_korisnici\avatar3.png" />
+    <Resource Include="avatar_korisnici\avatar4.png" />
+    <Resource Include="avatar_korisnici\avatar5.png" />
+    <Resource Include="avatar_korisnici\avatar6.jpg" />
+    <Resource Include="slike_logo\gbns.png" />
+    <Resource Include="slike_logo\knjiga_za_projekat.png" />
+    <Resource Include="slike_logo\knjige.jpg" />
+    <Resource Include="slike_logo\nbs.png" />
+  </ItemGroup>
+
+</Project>

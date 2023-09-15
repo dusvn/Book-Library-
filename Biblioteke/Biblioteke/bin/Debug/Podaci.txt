@@ -1,0 +1,6 @@
+Gradska Biblioteka NS,Dunavska 1,1958,../../../slike_logo/gbns.png
+Robinzon Kruso,Danijel Defo,1719|Pustolovine Toma Sojera,Mark Tven,1876|Mali Princ,Antoan de Sent Egziperi,1943|Night Flight,Antoan de Sent Egziperi,1931
+Dusan,Paripovic,2704983114060,06.01.2022.,../../../avatar_korisnici/avatar1.png|Nikolina,Bratic,9792776403880,18.12.2020.,../../../avatar_korisnici/avatar5.png|Mihailo,Stankovic,5223023114640,06.01.2001.,../../../avatar_korisnici/avatar4.png
+#Narodna Biblioteka Srbije,Skerliceva 1,1832,../../../slike_logo/nbs.png
+Dnevnik Ane Frank,Ana Frank,1947|Na Drini Cuprija,Ivo Andric,1945|Most na Zepi,Ivo Andric,1966|Aska i vuk,Ivo Andric,1953
+Marko,Markovic,5145472538673,27.10.2019.,../../../avatar_korisnici/avatar2.png|Milos,Milosevic,8887366802229,16.06.2015.,../../../avatar_korisnici/avatar3.png
